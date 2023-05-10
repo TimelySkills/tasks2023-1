@@ -2,10 +2,10 @@
 ## Задание QA
 
 1. Составить Чеклист тестирования окна авторизации на сайте [Алиэкспресс](https://aliexpress.ru/?gatewayAdapt=glo2rus)
-![Aliexpress](/assets/aliexpress.png.png)
+![Aliexpress](/assets/aliexpress.png.png "Aliexpress")
 
 2. Составить Тест-Сьют раздела обувь на сайте [Вайлдберис](https://www.wildberries.ru/catalog/obuv)
-![Wildberries](/assets/wildberries.png.png)
+![Wildberries](/assets/wildberries.png.png "Wildberries")
 
 3. Ответить на вопрос “Какая роль тестировщика в проекте в вашем лице?” в письменном виде. (до 900 символов)
 
