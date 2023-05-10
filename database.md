@@ -3,13 +3,13 @@
 
 ## Техническое задание
 
-## Задача:
+### Задача:
 
 1. Необходимо спроектировать базу данных по требованиям ниже.
 2. Наполнить тестовыми данными для проверки работоспособности.
 3. Отправить бэкап базы данных надо на [Git](https://github.com/)
 
-## Описание:
+### Описание:
 
 Название клуба: "Ночной ритм"
 
@@ -21,7 +21,7 @@
 
 Клуб также предлагает приватные VIP-зоны для тех, кто хочет насладиться ночью в ограниченном кругу друзей. В VIP-зонах вы можете насладиться уютной обстановкой, превосходным обслуживанием и высококачественными напитками и закусками.
 
-## Требования:
+### Требования:
 - Информация о клиенте (Ф.И.О, дата рождения и тд) 
 - Многоуровневая программа лояльности, без возможности тратить накопления
 - Личная карточка клиента (с ID клиента, уровнем, количеством потраченных денег и посещений) 
@@ -34,7 +34,7 @@
 - Все числа и уровни можно свободно менять через админку 
 - Акции на продукцию каждый день (не суммируется с бонусом карточки) 
 > \*Может измениться 
-## Необходимые Ссылки:
+### Необходимые Ссылки:
 Для работы нужны инструменты: [MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads), [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 
 Для проектирования ER-моделей: [draw.io](https://app.diagrams.net/) (без регистрации), [Lucidchart](https://www.lucidchart.com/pages/landing?utm_source=google&utm_medium=cpc&utm_campaign=branded_sitelink_en_lucidchart&km_CPC_CampaignId=1484560207&km_CPC_AdGroupID=60168114191&km_CPC_Keyword=lucidchart&km_CPC_MatchType=e&km_CPC_ExtensionID=21193716975&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=442433234360&km_CPC_TargetID=kwd-33511936169&km_CPC_Country=1009827&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gclid=Cj0KCQjwu-KiBhCsARIsAPztUF3XFlMR-oREYfEkPP9gyRJuF5ceEnxes9BymJvIe_v34cWQjuuYSAQaAvweEALw_wcB) (необходимо зарегистрироваться)
